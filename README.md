@@ -1,0 +1,2 @@
+# calcetoserver
+Websocket syncronous server
