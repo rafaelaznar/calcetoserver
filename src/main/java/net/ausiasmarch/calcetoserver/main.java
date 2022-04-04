@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class main {
 
     public static void main(String[] args) throws InterruptedException, IOException {
-        int port = 8088;
+        int port = 8887;
         try {
             port = Integer.parseInt(args[0]);
         } catch (NumberFormatException ex) {
