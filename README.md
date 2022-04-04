@@ -1,2 +1,2 @@
 # calcetoserver
-Websocket syncronous server
+Websocket Java syncronous server
